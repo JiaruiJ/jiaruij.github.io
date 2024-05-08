@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Jiarui Jiang"
 description              : &description "personal description"
 url                      : http://jiaruij.github.io
-baseurl                  : 
+baseurl                  : ""
 repository               : "JiaruiJ/jiaruij.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
