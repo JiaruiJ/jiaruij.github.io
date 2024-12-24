@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student at Harbin Institute of Technology ,Shenzhen
+I'm an first-year master's student in the Department of Computer Science and Technology at Harbin Institute of Technology, Shenzhen (HITSZ). I'am fortunate to be advised by Prof.[Miao Zhang](https://faculty.hitsz.edu.cn/zhangmiao). previously, I received my bachelor's degree from the Department of Computer Science and Technology at HITSZ in 2024.
+
+
+
+
