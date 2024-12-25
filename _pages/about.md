@@ -11,4 +11,6 @@ I'm an first-year master's student in the Department of Computer Science and Tec
 
 My reasearch interest focus on *Learning Theory*, particularly the theoretical understanding of large foundation model from *training dynamic* and *generalization*.
 
-## 
+## News
+
+## Publication
