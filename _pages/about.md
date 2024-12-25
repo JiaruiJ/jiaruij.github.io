@@ -20,3 +20,4 @@ My reasearch interest focus on *Learning Theory*, particularly the theoretical u
 ## Publication
 
 ### [Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization](https://arxiv.org/abs/2409.19345)
+Jiarui Jiang*, Wei Huang*, Miao Zhang†, Taiji Suzuki, Liqiang Nie
