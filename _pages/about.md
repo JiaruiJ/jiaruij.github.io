@@ -23,4 +23,4 @@ My reasearch interest focus on *Learning Theory*, particularly the theoretical u
 Jiarui Jiang\*, Wei Huang\*, Miao Zhang†, Taiji Suzuki, Liqiang Nie
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yjxsXYZpYXfDpR6lazHiFoeZz77HltY5COafMuTPcXE"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=yjxsXYZpYXfDpR6lazHiFoeZz77HltY5COafMuTPcXE'></script>
