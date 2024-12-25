@@ -12,5 +12,6 @@ I'm an first-year master's student in the Department of Computer Science and Tec
 My reasearch interest focus on *Learning Theory*, particularly the theoretical understanding of large foundation model from *training dynamic* and *generalization*.
 
 ## News
+\[2024/9\] One paper accepted by NeurIPS 2024, [Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization](https://arxiv.org/abs/2409.19345)
 
 ## Publication
