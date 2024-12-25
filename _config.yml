@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiarui Jiang"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : 
   location         : "Shenzhen, China"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "jiaruij@outlook.com" 
 
