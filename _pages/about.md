@@ -13,11 +13,16 @@ My reasearch interest focus on *Learning Theory*, particularly the theoretical u
 
 ## News
 
+\[2025/09\] One paper accepted by NeurIPS 2025, [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://arxiv.org/abs/2509.23779)
+
 \[2024/12\] Attend [NeurIPS 2024](https://neurips.cc/Conferences/2024) from 10/12/2024 to 15/12/2024 in Vancouver.
 
 \[2024/09\] One paper accepted by NeurIPS 2024, [Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization](https://arxiv.org/abs/2409.19345)
 
 ## Publication
+
+### [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://arxiv.org/abs/2509.23779)
+Jiarui Jiang\*, Wei Huang\*, Miao Zhang†, Taiji Suzuki, Liqiang Nie
 
 ### [Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization](https://arxiv.org/abs/2409.19345)
 Jiarui Jiang\*, Wei Huang\*, Miao Zhang†, Taiji Suzuki, Liqiang Nie
