@@ -12,6 +12,7 @@ I'm a PhD student in the Department of Computer Science and Technology at Harbin
 My reasearch interest focus on *Learning Theory*, particularly the theoretical understanding of large foundation model from *training dynamic* and *generalization*.
 
 ## News
+\[2025/12\] Attend [NeurIPS 2025](https://neurips.cc/Conferences/2025) from 30/11/2025 to 05/12/2025 in Mexico City.
 
 \[2025/09\] One paper accepted by NeurIPS 2025, [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://arxiv.org/abs/2509.23779)
 
